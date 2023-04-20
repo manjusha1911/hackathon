@@ -1,0 +1,22 @@
+<!DOCTYPE html>   
+<html lang="en">   
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Neumorphism Login Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="login-form">
+        <!-- <img src="logo.png" alt=""> -->
+        <h1>Login Form</h1>
+        <form action="#">
+            <input type="text" name="UserName" placeholder="User Name">
+            <input type="Password" name="Password" placeholder="Password">
+            <button type="Submit">Login</button>
+            <span>Forget Password?<a href="#"></a></span>
+         </form>
+    </div>
+</body>
+</html>
